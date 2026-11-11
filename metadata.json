@@ -1,0 +1,6 @@
+{
+  "name": "Rabta",
+  "description": "RABTA (رابطہ) — Global Messaging, Calling & Communication Platform. Connect Everyone, Everywhere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
